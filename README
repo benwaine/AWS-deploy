@@ -1,1 +1,8 @@
 A repo for experiments with deploying to AWS.
+
+Set Up
+
+1) git submodule update --recursive (gets all included submodules) 
+
+2) Copy lib/aws-sdk/config-sample.inc.php to lib/aws-sdk/config.inc.php as described at http://aws.amazon.com/articles/PHP/4261
+
