@@ -6,3 +6,9 @@ Set Up
 
 2) Copy lib/aws-sdk/config-sample.inc.php to lib/aws-sdk/config.inc.php as described at http://aws.amazon.com/articles/PHP/4261
 
+Repo Contents
+
+ - bin/simple-deploy
+
+Some simple scripts that initialise AWS features individually. EC2, CloudFront, S3.
+These will form part of the more complex deployment tasks at a later date. 
